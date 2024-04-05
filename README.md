@@ -18,6 +18,7 @@ Visualization:Visualize historical stock market data, predicted trends, and mode
 
 Dataset
 Data set with historical price information for 3 high growth stocks and bitcoin from 2013 to 2023. Basic analysis of returns and visualizations included.
+
 _Link_
 https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm/input
 
